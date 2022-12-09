@@ -42,8 +42,8 @@ function getUserInfo() {
         data: {
           id: 17,
           username: "bb",
-          nickname: "",
-          email: "",
+          nickname: "abab",
+          email: "abab@gmail.com",
           user_pic: null,
         },
       };
